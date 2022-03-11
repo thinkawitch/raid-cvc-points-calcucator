@@ -1,4 +1,4 @@
-import { html, render, useContext } from './imports.js';
+import {html, render, useContext } from './imports.js';
 import { AppContext, AppProvider } from './app-context.js';
 import Header from './components/header.js';
 import AccordionItem from './components/accordion-item.js';
